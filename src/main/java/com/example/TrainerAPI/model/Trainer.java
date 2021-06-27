@@ -38,8 +38,7 @@ public class Trainer {
         return this.firstName;
     }
 
-    public String getLastName()
-    {
+    public String getLastName(){
         return this.lastName;
     }
 }
