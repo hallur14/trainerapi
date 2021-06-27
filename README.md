@@ -8,7 +8,7 @@
 The local repository is prepopulated with a few trainers.
 - To see a list of all the trainers use Postman GET request or your broswer using URL: http://localhost:8080/trainers
 - To GET a single trainer use URL: http://localhost:8080/trainers/{id} where ID is an intiger e.g. 1.
-- To add a new trainer use Postman and send a POST request to ttp://localhost:8080/trainers using a json body like the one below.
+- To add a new trainer use Postman and send a POST request to http://localhost:8080/trainers using a json body like the one below.
 
 ```
 {
